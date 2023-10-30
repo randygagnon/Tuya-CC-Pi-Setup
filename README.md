@@ -19,7 +19,7 @@ Steps:
    If your countrycode is something other than US, simply add it onto the end like "./setup.sh GB" or "./setup.sh CA"_
 
    ```shell
-   wget -O - https://raw.githubusercontent.com/<username>/<project>/<branch>/<path>/<file>
+   wget -O - https://raw.githubusercontent.com/randygagnon/Tuya-CC-Pi-Setup/main/setup.sh
    ./setup.sh
    ```
 
